@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comforting Message</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f2f7f7;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .message-container {
+            background-color: #fffbf0;
+            border-radius: 10px;
+            padding: 40px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: #5e8b7e;
+            font-size: 32px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #5a5a5a;
+        }
+
+        .footer {
+            font-size: 16px;
+            margin-top: 20px;
+            color: #8e8e8e;
+        }
+
+        .highlight {
+            color: #5e8b7e;
+            font-weight: bold;
+        }
+
+        .emoji {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="message-container">
+        <h1>For My Sweet [biro]</h1>
+        <p>
+            "Take care of yourself today, don’t stress too much. Rest well, drink enough water, and keep something warm near you if you feel pain. Remember, it’s completely okay ar amar kono idea nei ami to bhat bokte asi.good night bkl. I’m here if you feel like talking {emni bollam , bye , ami ekhon porte bosbo]."<br><br>
+            <span class="highlight">Sending you warmth, comfort, and all my love today and always.</span> ❤️
+        </p>
+    </div>
+
+    <div class="footer">
+        <p>With all my love,</p>
+        <p><span class="highlight">[Supriyo]</span></p>
+    </div>
+
+</body>
+</html>
